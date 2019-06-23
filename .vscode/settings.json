@@ -1,0 +1,7 @@
+{
+    "appService.zipIgnorePattern": [
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/27c2c2a5-289d-4120-b890-da4878f0f06a/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/BlockChainSup",
+    "appService.deploySubpath": ""
+}
